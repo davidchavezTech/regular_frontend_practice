@@ -1,0 +1,28 @@
+button {
+  border: none;
+  padding: 25px;
+  background-color: salmon;
+  color: #161616;
+  cursor: pointer;
+}
+
+.div-format {
+  width: 600px;
+  background-color: rgba(0, 0, 0, 0.8);
+  color: white;
+  padding: 20px;
+  margin-top: 10px;
+}
+
+.contract-wrapper {
+  border: solid 1px black;
+  overflow: hidden;
+  -webkit-transition: all .3s ease-in-out;
+  transition: all .3s ease-in-out;
+  height: 200px;
+}
+
+.contracted {
+  height: 0;
+}
+/*# sourceMappingURL=styles.css.map */
